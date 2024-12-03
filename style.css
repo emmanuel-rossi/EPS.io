@@ -148,3 +148,23 @@ footer{
     text-decoration: underline;
     color: #ff7b00;
 }
+@media(max-width:600px){
+    header img{
+        max-width: 600px;
+        margin-right: 20px;
+        font-size: 5vw;
+        min-height: 40px;
+
+    }
+}
+@media(min-width: 1200px){
+    header img{
+        font: size 40px;
+    }
+}
+        width: 100%;
+    }
+    main{
+        padding: 15px;
+    }
+}
